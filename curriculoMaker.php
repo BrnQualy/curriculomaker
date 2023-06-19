@@ -1,7 +1,7 @@
 <?php
 $modelo = $_POST['modelo'];
     $foto = "Imagem/avatar.png";
-    
+
 $dados = array(
     'foto' => $foto,
     'nome' => $_POST['nome'],
