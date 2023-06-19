@@ -6,7 +6,7 @@
     <title>Gerador de Currículo</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-</head>
+</head> 
 <body>
     <main class="container" style="margin-top:30px">
         <form action="curriculoMaker.php" method="post" target="_blank" enctype="multipart/form-data">
